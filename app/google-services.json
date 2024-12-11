@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951009821767",
+    "project_id": "barugabaca",
+    "storage_bucket": "barugabaca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951009821767:android:6e1d92ab8fae7f3b76dd62",
+        "android_client_info": {
+          "package_name": "com.mobile.barugabaca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSl1jGhezqDoI27uNOmY0HQHNZYfkJ19g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
